@@ -4,38 +4,68 @@
   position: Founder
   affiliation: Wildflow
 
-- name: Tamim Asfour
-  image: /assets/images/tamin_asfour.jpeg
-  web: https://www.linkedin.com/in/tamim-asfour-829979a/
+- name: Vincent Raoult
+  image: /assets/images/vincent_raoult.jpeg
+  web: https://experts.griffith.edu.au/47458-vincent-raoult
+  position: Senior Lecturer
+  affiliation: Griffith University
+
+- name: Gideon Billings
+  image: /assets/images/gideon_billings.jpeg
+  web: https://www.linkedin.com/in/gideonbillings/
+  position: PostDoc
+  affiliation: University of Sydney
+
+- name: Kostas Alexis
+  image: /assets/images/kostas_alexis.png
+  web: https://www.ntnu.edu/employees/konstantinos.alexis
   position: Professor
-  affiliation: Karlsruhe Institute of Technology
+  affiliation: Norwegian University of Science and Technology
 
-- name: Antonio Bicchi
-  image: /assets/images/antonio_bicchi.jpeg
-  web: https://www.iit.it/people/antonio-bicchi
-  position: Professor 
-  affiliation: IIT & University of Pisa
+- name: Ayoung Kim
+  image: /assets/images/ayoung_kim.jpeg
+  web: https://ayoungk.github.io/
+  position: Associate Professor
+  affiliation: Seoul National University
 
-- name: Jeannette Bohg
-  image: /assets/images/jeannette_bogh.png
-  web: https://web.stanford.edu/~bohg/
-  position: Assistant Professor
-  affiliation: Stanford University
+- name: Dorian Tsai
+  image: /assets/images/dorian_tsai.png
+  web: https://doriantsai.github.io/about_me/
+  position: Robotics Research Engineer
+  affiliation: Queensland University of Technology
 
-- name: Ken Goldberg
-  image: /assets/images/ken_goldberg.jpeg
-  web: https://goldberg.berkeley.edu/
+- name: Maren Toor
+  image: /assets/images/maren_toor.jpg
+  web: https://www.globalecologylab.org/lab-members/maren-toor
+  position: Marine Biologist
+  affiliation: Australian Institute of Marine Sciences
+
+- name: Brett Lewis
+  image: /assets/images/brett_lewis.png
+  web: https://www.qut.edu.au/about/our-people/academic-profiles/bm.lewis
+  position: PostDoc
+  affiliation: Queensland University of Technology
+
+- name: Ioannis Rekleitis
+  image: /assets/images/ioannis_rekleitis.png
+  web: https://sites.google.com/udel.edu/prof-ioannis-rekleitis/
+  position: Associate Professor
+  affiliation: University of Delaware
+
+- name: Angelos Mallios
+  image: /assets/images/angelos_mallios.jpeg
+  web: https://www.linkedin.com/in/angelosmallios/
+  position: Co-Founder
+  affiliation: PLOATECH
+
+- name: John Leonard
+  image: /assets/images/john_leonard.jpeg
+  web: https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU
   position: Professor
-  affiliation: UC Berkeley
+  affiliation: Massachusetts Institute of Technology
 
-- name: Serena Ivaldi
-  image: /assets/images/serena_ivaldi.jpeg
-  web: https://www.linkedin.com/in/serenaivaldi/
-  position: Professor
-  affiliation: Universite de Lorraine
-
-- name: Nadia Figueroa
-  image: /assets/images/nadia_figueroa.jpeg
-  web: https://nbfigueroa.github.io/
-  position: Assistant Professor
-  affiliation: University of Pennsylvania
+- name: Michael Kaess
+  image: /assets/images/michael_kaess.jpg
+  web: https://www.cs.cmu.edu/~kaess/
+  position: Associate Professor
+  affiliation: Carnegie Mellon University
