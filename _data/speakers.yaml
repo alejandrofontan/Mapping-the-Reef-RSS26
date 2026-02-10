@@ -1,8 +1,8 @@
-- name: Aude Billard
-  image: /assets/images/aude_billard.jpg
-  web: https://people.epfl.ch/aude.billard
-  position: Professor
-  affiliation: EPFL
+- name: Sergei Nozdrenkov
+  image: /assets/images/sergei_nozdrenkov.jpeg
+  web: https://www.linkedin.com/in/nozdrenkov/
+  position: Founder
+  affiliation: Wildflow
 
 - name: Tamim Asfour
   image: /assets/images/tamin_asfour.jpeg

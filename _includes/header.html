@@ -1,9 +1,28 @@
 <header>
   <div class='headline'>
     <div class='container'>
-      <h1>{{ page.heading }}</h1>
-      <h2>{{ page.subheading }}</h2>
-      <h2>{{ page.subheading2 }}</h2>
+      <div class="headline-box">
+        {% if page.heading_main %}
+          <h1>
+            <strong>{{ page.heading_main }}</strong>
+            {% if page.heading_sub1 %}
+              <span class="title-sub1">{{ page.heading_sub1 }}</span>
+            {% endif %}
+            {% if page.heading_sub2 %}
+              <span class="title-sub2">{{ page.heading_sub2 }}</span>
+            {% endif %}
+          </h1>
+        {% else %}
+          <h1>{{ page.heading }}</h1>
+        {% endif %}
+
+        {% if page.subheading %}
+          <h2 class="subheading">{{ page.subheading }}</h2>
+        {% endif %}
+        {% if page.subheading2 %}
+          <h2 class="subheading">{{ page.subheading2 }}</h2>
+        {% endif %}
+      </div>
     </div>
   </div>
 </header>

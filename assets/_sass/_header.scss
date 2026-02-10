@@ -10,16 +10,40 @@ header {
 
   .headline { padding: 120px 0; }
 
-  h1 {
-    font-size: 60px;
-    background: #fff;
-    background: rgba(255,255,255,0.0);
-  }
+  .headline-box {
+    background: rgba(255,255,255,0.7);
+    display: inline-block;
+    padding: 0.6em 0.9em;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+    line-height: 1.1;
 
-  h2 {
-    font-size: 30px;
-    background: #fff;
-    background: rgba(255,255,255,0.0);
+    h1 {
+      font-size: 80px;
+      margin: 0;
+
+      strong {
+        display: block;
+        font-weight: 800;
+      }
+
+      .title-sub1,
+      .title-sub2 {
+        display: block;
+        font-size: 0.6em;
+        font-weight: 400;
+        margin-top: 0.08em;
+        opacity: 0.95;
+      }
+    }
+
+    h2.subheading {
+      display: block;
+      margin: 0.35em 0 0 0;
+      font-size: 1.75em;
+      font-weight: 400;
+      opacity: 0.95;
+    }
   }
 
   @media(max-width:1200px) {
