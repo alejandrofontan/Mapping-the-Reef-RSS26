@@ -1,0 +1,47 @@
+- name: Alejandro Fontan 
+  image: /assets/images/alejandro_fontan.jpeg
+  web: https://www.qut.edu.au/about/our-people/academic-profiles/alejandro.fontan
+  position: Postdoctoral Research Fellow
+  affiliation: Queensland University of Technology
+
+- name: Gokul B. Nair
+  image: /assets/images/gokul_b_nair.jpeg
+  web: https://gokulbnr.github.io/
+  position: PhD Candidate
+  affiliation: Queensland University of Technology
+
+- name: Irene Ballester
+  image: /assets/images/irene_ballester_campos.jpg
+  web: https://cvl.tuwien.ac.at/staff/irene-ballester-campos/
+  position: PhD Student
+  affiliation: Technische Universität Wien
+
+- name: Lisa Weijler
+  image: /assets/images/lisa_weijler.jpeg
+  web: https://lisaweijler.github.io/
+  position: PhD Student
+  affiliation: Technische Universität Wien
+
+- name: Riccardo Giubilato
+  image: /assets/images/riccardo_giubilato.jpeg
+  web: https://www.linkedin.com/in/riccardo-giubilato-486448131/
+  position: Researcher
+  affiliation: German Aerospace Center (DLR)
+  
+- name: Javier Civera
+  image: /assets/images/javier_civera.jpeg
+  web: https://i3a.unizar.es/es/investigadores/javier-civera-sancho
+  position: Associate Professor
+  affiliation: Universidad de Zaragoza
+
+- name: Tobias Fischer
+  image: /assets/images/tobias_fischer.jpeg
+  web: https://www.linkedin.com/in/tobiasrobotics/
+  position: Senior Lecturer
+  affiliation: Queensland University of Technology
+
+- name: Michael Milford
+  image: /assets/images/michael_milford.jpeg
+  web: https://www.qut.edu.au/research/michael-milford
+  position: Professor
+  affiliation: Queensland University of Technology

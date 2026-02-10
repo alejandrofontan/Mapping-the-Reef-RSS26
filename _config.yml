@@ -1,0 +1,36 @@
+title: "The-Good-Reviewer: Shaping up the future of peer-review process"
+description: Title
+sitename: The-Good-Reviewer@ICRA26
+baseurl: "/The-Good-Reviewer-ICRA26"
+url: "https://alejandrofontan.github.io"
+
+# Scholar
+# ========================================================================================
+scholar:
+  style: apa
+  locale: en
+  sort_by: year, month
+  order: descending
+  source: ./
+  bibliography: resources.bib
+  bibliography_template: bib
+  replace_strings: true
+  join_strings: false
+  query: "@*"
+
+plugins:
+  - jekyll/scholar
+
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+  - Makefile
+  - resources.bib

@@ -1,0 +1,41 @@
+- name: Aude Billard
+  image: /assets/images/aude_billard.jpg
+  web: https://people.epfl.ch/aude.billard
+  position: Professor
+  affiliation: EPFL
+
+- name: Tamim Asfour
+  image: /assets/images/tamin_asfour.jpeg
+  web: https://www.linkedin.com/in/tamim-asfour-829979a/
+  position: Professor
+  affiliation: Karlsruhe Institute of Technology
+
+- name: Antonio Bicchi
+  image: /assets/images/antonio_bicchi.jpeg
+  web: https://www.iit.it/people/antonio-bicchi
+  position: Professor 
+  affiliation: IIT & University of Pisa
+
+- name: Jeannette Bohg
+  image: /assets/images/jeannette_bogh.png
+  web: https://web.stanford.edu/~bohg/
+  position: Assistant Professor
+  affiliation: Stanford University
+
+- name: Ken Goldberg
+  image: /assets/images/ken_goldberg.jpeg
+  web: https://goldberg.berkeley.edu/
+  position: Professor
+  affiliation: UC Berkeley
+
+- name: Serena Ivaldi
+  image: /assets/images/serena_ivaldi.jpeg
+  web: https://www.linkedin.com/in/serenaivaldi/
+  position: Professor
+  affiliation: Universite de Lorraine
+
+- name: Nadia Figueroa
+  image: /assets/images/nadia_figueroa.jpeg
+  web: https://nbfigueroa.github.io/
+  position: Assistant Professor
+  affiliation: University of Pennsylvania
