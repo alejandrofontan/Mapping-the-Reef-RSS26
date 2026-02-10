@@ -1,3 +1,3 @@
 
 # The Good Reviewer
-https://alejandrofontan.github.io/The-Good-Reviewer-ICRA26/
+https://alejandrofontan.github.io/Mapping-the-Reef-RSS26/
