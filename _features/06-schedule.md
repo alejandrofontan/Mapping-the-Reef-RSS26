@@ -16,63 +16,63 @@ div_class: lead
   </thead>
   <tbody>
             <tr>
-              <td> 08:30 </td>
-              <td style="color:#2563eb;">Opening Remarks</td>
+              <td> 08:00 </td>
+              <td>Workshop kick-off and overview</td>
               <td></td>
             </tr>
             <tr>
               <td>08:45</td>
-              <td> Training the Community for High-Quality Reviewing  </td>
-              <td> Tamin Asfour </td>
+              <td> Talk 1: Protocol G503: From GoPro’s to Gaussian Splatting </td>
+              <td> Sergei Nozdrenkov </td>
             </tr>
             <tr>
               <td>09:00</td>
-              <td> “How to review” for doctoral students</td>
-              <td> Serena Ivaldi </td>
+              <td> Talk 2: From air to sea: Limitation of sensing in underwater </td>
+              <td> Ayoung Kim </td>
             </tr>
             <tr>
               <td>09:15</td>
-              <td> AUTOLAB Advice on Reviewing Papers</td>
-              <td> Ken Golberg </td>
+              <td> Talk 3: Multi-Modal SLAM for Reliable Underwater Exploration </td>
+              <td> Ioannis Rekleitis </td>
             </tr>     
             <tr>
               <td>09:30</td>
-              <td> Beyond the “Submission Surge”: Distributing Reviews and Training New Reviewer</td>
-              <td> Antonio Bicchi </td>
+              <td> Coffee Break and Poster Session </td>
+              <td></td>
             </tr>  
             <tr>
               <td>09:45</td>
-              <td> Fair Engagement</td>
-              <td> Nadia Figueroa </td>
+              <td> Contribution 1: Best Paper </td>
+              <td></td>
             </tr>     
             <tr>
               <td>10:00</td>
-              <td> Peer review and whether, and if so how, to use GenAI tools for reviewing</td>
-              <td> Jeannette Bohg </td>
+              <td> Contribution 2: Best Poster </td>
+              <td></td>
             </tr>     
             <tr>
               <td>10:15</td>
-              <td> Double-Blind Peer Review</td>
-              <td> Aude Billard </td>
+              <td> Contribution 3: Best Practical Contribution </td>
+              <td></td>
             </tr>   
             <tr>
               <td>10:30</td>
-              <td style="text-align:center; color:#b45309; font-weight:600;">Coffee Break</td>
-              <td></td>
+              <td> Talk 4: Animal Sensing for Underwater Navigation </td>
+              <td> Vincent Raoult </td>
             </tr>            
             <tr>
               <td>11:00</td>
-              <td>Think-pair-share Session</td>
-              <td> Javier Civera </td>
+              <td> Talk 5: Resilient Vision-based Underwater Autonomy </td>
+              <td> Kostas Alexis </td>
             <tr>
             <tr>
               <td>12:00</td>
-              <td>Moderated Final Panel</td>
-              <td> Tobias Fischer </td>
+              <td> Talk 6: Effective scene representations for marine scientists  </td>
+              <td> Maren Toor </td>
             </tr>  
             </tr>
               <td>12:30</td>
-              <td style="color:#2563eb;"><b>The Good Reviewer</b>: Shaping up the future of peer-review process</td>
+              <td style="color:#2563eb;"><b>Mapping the Reef</b>: Underwater 3D Reconstruction for Coral Ecosystems</td>
               <td></td>
             </tr>
   </tbody>

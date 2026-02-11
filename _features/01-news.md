@@ -13,4 +13,4 @@ div_class: lead
 <!--* <strong>May 03, 2025</strong> - The submission deadline (~~May 4~~) is extended to <span style="color:red;">May 26</span>! -->
 <!--* <strong>April 7, 2025</strong> - [Submissions Portal](#/features/05-call-for-papers) is now open! Please submit your paper via [CMT](https://cmt3.research.microsoft.com/UniVSLAM2025/Track/1/Submission/Create). -->
 <!--* <strong>Mar 24, 2025</strong> - We are excited to host the first workshop on <strong>Unifying Visual SLAM</strong> at <a href="https://roboticsconference.org/">RSS 2025</a>! -->
-* <strong>Feb 12, 2026</strong> - Workshop (proposal) submission!
+* <strong>Feb 12, 2026</strong> - Workshop proposal submission!
