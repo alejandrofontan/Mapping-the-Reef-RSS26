@@ -10,11 +10,11 @@
   position: Senior Lecturer
   affiliation: Griffith University
 
-- name: Gideon Billings
-  image: /assets/images/gideon_billings.jpeg
-  web: https://www.linkedin.com/in/gideonbillings/
-  position: PostDoc
-  affiliation: University of Sydney
+# - name: Gideon Billings
+#   image: /assets/images/gideon_billings.jpeg
+#   web: https://www.linkedin.com/in/gideonbillings/
+#   position: PostDoc
+#   affiliation: University of Sydney
 
 - name: Kostas Alexis
   image: /assets/images/kostas_alexis.png
@@ -40,11 +40,11 @@
   position: Marine Biologist
   affiliation: Australian Institute of Marine Sciences
 
-- name: Brett Lewis
-  image: /assets/images/brett_lewis.png
-  web: https://www.qut.edu.au/about/our-people/academic-profiles/bm.lewis
-  position: PostDoc
-  affiliation: Queensland University of Technology
+# - name: Brett Lewis
+#   image: /assets/images/brett_lewis.png
+#   web: https://www.qut.edu.au/about/our-people/academic-profiles/bm.lewis
+#   position: PostDoc
+#   affiliation: Queensland University of Technology
 
 - name: Ioannis Rekleitis
   image: /assets/images/ioannis_rekleitis.png
@@ -52,20 +52,20 @@
   position: Associate Professor
   affiliation: University of Delaware
 
-- name: Angelos Mallios
-  image: /assets/images/angelos_mallios.jpeg
-  web: https://www.linkedin.com/in/angelosmallios/
-  position: Co-Founder
-  affiliation: PLOATECH
+# - name: Angelos Mallios
+#   image: /assets/images/angelos_mallios.jpeg
+#   web: https://www.linkedin.com/in/angelosmallios/
+#   position: Co-Founder
+#   affiliation: PLOATECH
 
-- name: John Leonard
-  image: /assets/images/john_leonard.jpeg
-  web: https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU
-  position: Professor
-  affiliation: Massachusetts Institute of Technology
+# - name: John Leonard
+#   image: /assets/images/john_leonard.jpeg
+#   web: https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU
+#   position: Professor
+#   affiliation: Massachusetts Institute of Technology
 
-- name: Michael Kaess
-  image: /assets/images/michael_kaess.jpg
-  web: https://www.cs.cmu.edu/~kaess/
-  position: Associate Professor
-  affiliation: Carnegie Mellon University
+# - name: Michael Kaess
+#   image: /assets/images/michael_kaess.jpg
+#   web: https://www.cs.cmu.edu/~kaess/
+#   position: Associate Professor
+#   affiliation: Carnegie Mellon University
