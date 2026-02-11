@@ -21,17 +21,17 @@ div_class: lead
               <td></td>
             </tr>
             <tr>
-              <td>08:45</td>
+              <td>08:10</td>
               <td> Talk 1: Protocol G503: From GoPro’s to Gaussian Splatting </td>
               <td> Sergei Nozdrenkov </td>
             </tr>
             <tr>
-              <td>09:00</td>
+              <td>08:35</td>
               <td> Talk 2: From air to sea: Limitation of sensing in underwater </td>
               <td> Ayoung Kim </td>
             </tr>
             <tr>
-              <td>09:15</td>
+              <td>09:00</td>
               <td> Talk 3: Multi-Modal SLAM for Reliable Underwater Exploration </td>
               <td> Ioannis Rekleitis </td>
             </tr>     
@@ -41,17 +41,17 @@ div_class: lead
               <td></td>
             </tr>  
             <tr>
-              <td>09:45</td>
+              <td>10:00</td>
               <td> Contribution 1: Best Paper </td>
               <td></td>
             </tr>     
             <tr>
-              <td>10:00</td>
+              <td>10:10</td>
               <td> Contribution 2: Best Poster </td>
               <td></td>
             </tr>     
             <tr>
-              <td>10:15</td>
+              <td>10:20</td>
               <td> Contribution 3: Best Practical Contribution </td>
               <td></td>
             </tr>   
@@ -61,17 +61,17 @@ div_class: lead
               <td> Vincent Raoult </td>
             </tr>            
             <tr>
-              <td>11:00</td>
+              <td>10:55</td>
               <td> Talk 5: Resilient Vision-based Underwater Autonomy </td>
               <td> Kostas Alexis </td>
             <tr>
             <tr>
-              <td>12:00</td>
+              <td>11:20</td>
               <td> Talk 6: Effective scene representations for marine scientists  </td>
               <td> Maren Toor </td>
             </tr>  
             </tr>
-              <td>12:30</td>
+              <td>11:45</td>
               <td style="color:#2563eb;"><b>Mapping the Reef</b>: Underwater 3D Reconstruction for Coral Ecosystems</td>
               <td></td>
             </tr>
