@@ -4,22 +4,28 @@
   position: Postdoctoral Research Fellow
   affiliation: Queensland University of Technology
 
-- name: Ben Williams
-  image: /assets/images/ben_williams.jpg
-  web: https://ben-williams-ai.github.io/
-  position: Encode AI for Science Fellow
-  affiliation: Imperial College London
+- name: Emilio Olivastri
+  image: /assets/images/emilio_olivastri.jpeg
+  web: https://www.linkedin.com/in/emilio-olivastri-b767a5144/
+  position: PostDoc
+  affiliation: Queensland University of Technology
 
-- name: Jonathan Sauder
-  image: /assets/images/jonathan_sauder.png
-  web: https://josauder.github.io/
-  position: PhD Student
-  affiliation: Ecole Polytechnique Fédérale de Lausanne
+- name: Malika Meghjani
+  image: /assets/images/malika_meghjani.jpg
+  web: https://www.malikameghjani.com/
+  position: Assistant Professor
+  affiliation: Singapore University of Technology and Design
 
-- name: Gokul B. Nair
-  image: /assets/images/gokul_b_nair.jpeg
-  web: https://gokulbnr.github.io/
+- name: Mohit Singh
+  image: /assets/images/mohit_singh.jpg
+  web: https://www.ntnu.edu/employees/mohit.singh
   position: PhD Candidate
+  affiliation: Norwegian University of Science and Technology
+
+- name: Scarlett Raine
+  image: /assets/images/scarlett_raine.jpeg
+  web: https://www.qut.edu.au/about/our-people/academic-profiles/sg.raine
+  position: Chief Investigator
   affiliation: Queensland University of Technology
 
 - name: Beverley Gorry
@@ -28,17 +34,23 @@
   position: PhD Candidate
   affiliation: Queensland University of Technology
 
-- name: Emilio Olivastri
-  image: /assets/images/emilio_olivastri.jpeg
-  web: https://www.linkedin.com/in/emilio-olivastri-b767a5144/
-  position: PostDoc
+- name: Lukas Schmid
+  image: /assets/images/LukasSchmid.png
+  web: https://schmluk.github.io/
+  position: Postdoctoral Research Fellow
+  affiliation: Massachusetts Institute of Technology
+
+- name: Gokul B. Nair
+  image: /assets/images/gokul_b_nair.jpeg
+  web: https://gokulbnr.github.io/
+  position: PhD Candidate
   affiliation: Queensland University of Technology
-  
-- name: Scarlett Raine
-  image: /assets/images/scarlett_raine.jpeg
-  web: https://www.qut.edu.au/about/our-people/academic-profiles/sg.raine
-  position: Lecturer
-  affiliation: Queensland University of Technology
+
+- name: Johan Barthelemy
+  image: /assets/images/johan_barthelemy.jpeg
+  web: https://scholars.uow.edu.au/johan-barthelemy
+  position: Senior Lecturer
+  affiliation: University of Sydney
 
 - name: Donald Dansereau
   image: /assets/images/donald_dansereau.jpeg
