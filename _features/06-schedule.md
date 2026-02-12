@@ -57,12 +57,12 @@ div_class: lead
             </tr>   
             <tr>
               <td>10:30</td>
-              <td> Talk 4: Animal Sensing for Underwater Navigation </td>
+              <td> Talk 4. <b>From prototype to practice</b>: real-world integration of robotics into marine management </td>
               <td> Vincent Raoult </td>
             </tr>            
             <tr>
               <td>10:55</td>
-              <td> Talk 5: Resilient Vision-based Underwater Autonomy </td>
+              <td> Talk 5. Resilient Vision-based Underwater Autonomy </td>
               <td> Kostas Alexis </td>
             <tr>
             <tr>
