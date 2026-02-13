@@ -22,6 +22,12 @@
   position: PhD Candidate
   affiliation: Norwegian University of Science and Technology
 
+- name: Jonathan Sauder
+  image: /assets/images/jonathan_sauder.png
+  web: https://www.linkedin.com/in/josauder/
+  position: PhD Candidate
+  affiliation: École polytechnique fédérale de Lausanne
+
 - name: Scarlett Raine
   image: /assets/images/scarlett_raine.jpeg
   web: https://www.qut.edu.au/about/our-people/academic-profiles/sg.raine

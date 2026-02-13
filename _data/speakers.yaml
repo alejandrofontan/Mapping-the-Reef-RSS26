@@ -10,11 +10,11 @@
   position: Senior Lecturer
   affiliation: Griffith University
 
-# - name: Gideon Billings
-#   image: /assets/images/gideon_billings.jpeg
-#   web: https://www.linkedin.com/in/gideonbillings/
-#   position: PostDoc
-#   affiliation: University of Sydney
+- name: Gideon Billings
+  image: /assets/images/gideon_billings.jpeg
+  web: https://www.linkedin.com/in/gideonbillings/
+  position: PostDoc
+  affiliation: ACFR Marine
 
 - name: Kostas Alexis
   image: /assets/images/kostas_alexis.png

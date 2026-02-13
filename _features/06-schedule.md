@@ -22,17 +22,17 @@ div_class: lead
             </tr>
             <tr>
               <td>08:00</td>
-              <td> Talk 1: Protocol G503: From GoPro’s to Gaussian Splatting  </td>
+              <td> Talk 1- Wildflow: Modelling natural ecosystems  </td>
               <td> Sergei Nozdrenkov </td>
             </tr>
             <tr>
               <td>08:30</td>
-              <td> Talk 2: From air to sea: Limitation of sensing in underwater  </td>
+              <td> Talk 2 - MOANA: Multi-radar dataset for maritime odometry and autonomous navigation applications  </td>
               <td> Ayoung Kim </td>
             </tr>
             <tr>
               <td>09:00</td>
-              <td> Talk 3: Multi-Modal SLAM for Reliable Underwater Exploration </td>
+              <td> Talk 3 - Multi-Modal SLAM for Reliable Underwater Exploration  </td>
               <td> Ioannis Rekleitis </td>
             </tr>     
             <tr>
@@ -47,17 +47,17 @@ div_class: lead
             </tr>     
             <tr>
               <td>10:30</td>
-              <td> Talk 4: Animal Sensing for Underwater Navigation  </td>
+              <td> Talk 4 - From prototype to practice: real-world integration of robotics into marine management  </td>
               <td> Vincent Raoult </td>
             </tr>            
             <tr>
               <td>11:00</td>
-              <td> Talk 5: Resilient Vision-based Underwater Autonomy </td>
+              <td> Talk 5 - Resilient Vision-based Underwater Autonomy </td>
               <td> Kostas Alexis </td>
             <tr>
             <tr>
               <td>11:30</td>
-              <td> Talk 6: Effective scene representations for marine scientists  </td>
+              <td> Talk 6 - Effective scene representations for marine scientists  </td>
               <td> Maren Toor </td>
             </tr>  
             </tr>
