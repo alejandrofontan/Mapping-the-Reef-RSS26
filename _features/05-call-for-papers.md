@@ -11,7 +11,7 @@ We invite <b>short papers</b> of novel or recently published research relevant t
 * Short papers are 2+n pages (2 pages content + references)
 * Submissions must follow the [IEEE Conference double column format](https://www.ieee.org/conferences/publishing/templates.html)
 * All accepted papers will be presented as posters at the workshop and published on the workshop website.
-* Please indicate whether your paper falls into the <strong>‘novel’</strong> or <strong>‘previously published’</strong> category. Novel research papers are encouraged and can expect more substantial review feedback on their work. This is provided as a service to authors of novel papers and does not diminish the chance of acceptance.
+<!-- * Please indicate whether your paper falls into the <strong>‘novel’</strong> or <strong>‘previously published’</strong> category. Novel research papers are encouraged and can expect more substantial review feedback on their work. This is provided as a service to authors of novel papers and does not diminish the chance of acceptance. -->
 * All accepted submissions will be considered for the best presentation award, where 3 finalists will be selected for 10-minute plenary presentations. While all submissions are eligible, novelty will be considered in finalist selection.
 * Submissions are single blind and will be reviewed by members of the (extended) workshop committee.
 * <b>All accepted submissions will be considered for three awards: Best Paper, Best Poster, and Best Application/Deployed System, each receiving a 150 USD gift card.</b>
