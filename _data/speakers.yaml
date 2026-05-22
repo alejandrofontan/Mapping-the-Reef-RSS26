@@ -24,27 +24,33 @@
 
 - name: Mohit Singh
   image: /assets/images/mohit_singh.jpg
-  web: https://www.ntnu.edu/employees/mohit.singh
+  web: https://www.aims.gov.au/about/our-people/dr-renata-ferrari
   position: PhD Candidate
   affiliation: Norwegian University of Science and Technology
 
-- name: Ayoung Kim
-  image: /assets/images/ayoung_kim.jpeg
-  web: https://ayoungk.github.io/
-  position: Associate Professor
-  affiliation: Seoul National University
+- name: Renata Ferrari
+  image: /assets/images/renata_ferrari.jpg
+  web: https://www.ntnu.edu/employees/renata.ferrari
+  position: Ecological Risk Modeler
+  affiliation: Australian Institute of Marine Science
 
-- name: Dorian Tsai
-  image: /assets/images/dorian_tsai.png
-  web: https://doriantsai.github.io/about_me/
-  position: Robotics Research Engineer
-  affiliation: Queensland University of Technology
+# - name: Ayoung Kim
+#   image: /assets/images/ayoung_kim.jpeg
+#   web: https://ayoungk.github.io/
+#   position: Associate Professor
+#   affiliation: Seoul National University
 
-- name: Maren Toor
-  image: /assets/images/maren_toor.jpg
-  web: https://www.globalecologylab.org/lab-members/maren-toor
-  position: Marine Biologist
-  affiliation: Australian Institute of Marine Sciences
+# - name: Dorian Tsai
+#   image: /assets/images/dorian_tsai.png
+#   web: https://doriantsai.github.io/about_me/
+#   position: Robotics Research Engineer
+#   affiliation: Queensland University of Technology
+
+# - name: Maren Toor
+#   image: /assets/images/maren_toor.jpg
+#   web: https://www.globalecologylab.org/lab-members/maren-toor
+#   position: Marine Biologist
+#   affiliation: Australian Institute of Marine Sciences
 
 # - name: Brett Lewis
 #   image: /assets/images/brett_lewis.png
@@ -52,11 +58,11 @@
 #   position: PostDoc
 #   affiliation: Queensland University of Technology
 
-- name: Ioannis Rekleitis
-  image: /assets/images/ioannis_rekleitis.png
-  web: https://sites.google.com/udel.edu/prof-ioannis-rekleitis/
-  position: Associate Professor
-  affiliation: University of Delaware
+# - name: Ioannis Rekleitis
+#   image: /assets/images/ioannis_rekleitis.png
+#   web: https://sites.google.com/udel.edu/prof-ioannis-rekleitis/
+#   position: Associate Professor
+#   affiliation: University of Delaware
 
 # - name: Angelos Mallios
 #   image: /assets/images/angelos_mallios.jpeg
