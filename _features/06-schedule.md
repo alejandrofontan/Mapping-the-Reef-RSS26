@@ -27,8 +27,8 @@ div_class: lead
             </tr>
             <tr>
               <td>09:00</td>
-              <td> Talk 2 - MOANA: Multi-radar dataset for maritime odometry and autonomous navigation applications  </td>
-              <td> Ayoung Kim </td>
+              <td> TBD  </td>
+              <td> Jackson Shields </td>
             </tr>
             <tr>
               <td>09:30</td>
@@ -53,7 +53,7 @@ div_class: lead
             <tr>
               <td>11:30</td>
               <td> Talk 5 - Resilient Vision-based Underwater Autonomy </td>
-              <td> Kostas Alexis </td>
+              <td> Mohit Singh </td>
             <tr>
             <tr>
               <td>12:00</td>

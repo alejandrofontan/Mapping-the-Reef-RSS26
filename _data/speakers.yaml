@@ -10,8 +10,14 @@
   position: Senior Lecturer
   affiliation: Griffith University
 
-- name: Gideon Billings
-  image: /assets/images/gideon_billings.jpeg
+# - name: Gideon Billings
+#   image: /assets/images/gideon_billings.jpeg
+#   web: https://www.linkedin.com/in/gideonbillings/
+#   position: PostDoc
+#   affiliation: ACFR Marine
+
+- name: Jackson Shields
+  image: /assets/images/jackson_shields.jpg
   web: https://www.linkedin.com/in/gideonbillings/
   position: PostDoc
   affiliation: ACFR Marine
