@@ -32,8 +32,8 @@ div_class: lead
             </tr>
             <tr>
               <td>09:30</td>
-              <td> Talk 3 - Multi-Modal SLAM for Reliable Underwater Exploration  </td>
-              <td> Ioannis Rekleitis </td>
+              <td> TBD  </td>
+              <td> TBD </td>
             </tr>     
             <tr>
               <td>10:00</td>
@@ -57,8 +57,8 @@ div_class: lead
             <tr>
             <tr>
               <td>12:00</td>
-              <td> Talk 6 - Effective scene representations for marine scientists  </td>
-              <td> Maren Toor </td>
+              <td> TBD  </td>
+              <td> Renata Ferrari </td>
             </tr>  
             </tr>
               <td>12:30</td>

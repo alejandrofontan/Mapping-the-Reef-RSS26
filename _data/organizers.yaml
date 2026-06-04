@@ -10,11 +10,11 @@
   position: PostDoc
   affiliation: Queensland University of Technology
 
-- name: Malika Meghjani
-  image: /assets/images/malika_meghjani.jpg
-  web: https://www.malikameghjani.com/
-  position: Assistant Professor
-  affiliation: Singapore University of Technology and Design
+# - name: Malika Meghjani
+#   image: /assets/images/malika_meghjani.jpg
+#   web: https://www.malikameghjani.com/
+#   position: Assistant Professor
+#   affiliation: Singapore University of Technology and Design
 
 - name: Mohit Singh
   image: /assets/images/mohit_singh.jpg
