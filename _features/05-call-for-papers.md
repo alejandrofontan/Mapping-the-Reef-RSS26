@@ -20,7 +20,7 @@ We invite <b>short papers</b> of novel or recently published research relevant t
 
 ### <strong>Submission Portal</strong>
 
-Submission portal is now open on [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2026/Workshop/Mapping_the_Reef#tab-your-consoles). We will be accepting contributions until June 25th 2026. 
+Submission portal is now open on [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2026/Workshop/Mapping_the_Reef#tab-your-consoles). We will be accepting contributions until June 30th 2026, 11:59PM, Eastern Australian Rime (GMT +10Hrs). 
 
 <div style="height: 10px;"></div> 
 
