@@ -22,7 +22,7 @@ div_class: lead
             </tr>
             <tr>
               <td>08:30</td>
-              <td> Talk 1- Wildflow: Modelling natural ecosystems  </td>
+              <td> Wildflow: Modelling Natural Ecosystems  </td>
               <td> Sergei Nozdrenkov </td>
             </tr>
             <tr>
@@ -47,17 +47,17 @@ div_class: lead
             </tr>     
             <tr>
               <td>11:00</td>
-              <td> Talk 4 - From prototype to practice: real-world integration of robotics into marine management  </td>
+              <td> From Prototype to Practice: Real-World Integration of Robotics into Marine Management  </td>
               <td> Vincent Raoult </td>
             </tr>            
             <tr>
               <td>11:30</td>
-              <td> Talk 5 - Resilient Vision-based Underwater Autonomy </td>
+              <td> Resilient Vision-based Underwater Autonomy </td>
               <td> Mohit Singh </td>
             <tr>
             <tr>
               <td>12:00</td>
-              <td> TBD  </td>
+              <td> Bridging the Gap Between Marine Ecology, Robotics and Computer Vision Research, for Improved Coral Reef Monitoring  </td>
               <td> Renata Ferrari </td>
             </tr>  
             </tr>
