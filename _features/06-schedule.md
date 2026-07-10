@@ -27,7 +27,7 @@ div_class: lead
             </tr>
             <tr>
               <td>09:00</td>
-              <td> TBD  </td>
+              <td> Coordinated AUV and Diver Studies of Mesophotic Reef Systems across the Pacific and Caribbean  </td>
               <td> Jackson Shields </td>
             </tr>
             <tr>
