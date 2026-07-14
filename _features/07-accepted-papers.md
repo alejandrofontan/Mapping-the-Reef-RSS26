@@ -8,7 +8,15 @@ div_class: lead
 ---
 
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
-     <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Paper Award</span></strong></p> -->
+    <p><strong><span style="color: red;">Winner of the Best Contribution Award</span></strong></p>
+    <strong>Loggerhead: Grounding Feed-forward Transformers with Multimodal Odometry for Metric-scale Reef Reconstructions</strong> 
+    <a href="assets/proceedings/4.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
+    <!-- <a href="assets/proceedings/junlin Song_Poster_5.pdf" style="text-decoration: none; color: #007bff;">[Poster]</a><br> -->
+    <br>Daniel Yang, Jungseok Hong, John J. Leonard, Yogesh Girdhar<br>
+</div>
+
+<div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
+     <p><strong><span style="color: red;">Winner of the Best Paper Award</span></strong></p>
     <strong>WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment</strong> 
     <a href="assets/proceedings/1.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
     <!-- <a href="assets/proceedings/1.pdf" style="text-decoration: none; color: #007bff;">[Poster]</a> -->
@@ -16,7 +24,7 @@ div_class: lead
 </div>
 
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
-    <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Open-Source Contribution Award</span></strong></p> -->
+    <p><strong><span style="color: red;">Winner of the Best Application Award</span></strong></p>
     <strong>Lessons from Building a Semantic 3D Gaussian Splatting Pipeline for Multi-Year Coral Reef Monitoring</strong> 
     <a href="assets/proceedings/2.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
     <br>Alzayat Saleh, Kang Han, Renata Ferrari<br>
@@ -28,14 +36,6 @@ div_class: lead
     <a href="assets/proceedings/3.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
     <!-- <a href="assets/proceedings/Oliver Grainge_poster.pdf" style="text-decoration: none; color: #007bff;">[Poster]</a><br> -->
     <br>Wynona Brinkmann, Victoria Preston, Luca Odio<br>
-</div>
-
-<div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
-    <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
-    <strong>Loggerhead: Grounding Feed-forward Transformers with Multimodal Odometry for Metric-scale Reef Reconstructions</strong> 
-    <a href="assets/proceedings/4.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
-    <!-- <a href="assets/proceedings/junlin Song_Poster_5.pdf" style="text-decoration: none; color: #007bff;">[Poster]</a><br> -->
-    <br>Daniel Yang, Jungseok Hong, John J. Leonard, Yogesh Girdhar<br>
 </div>
 
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
