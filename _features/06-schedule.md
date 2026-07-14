@@ -46,22 +46,22 @@ div_class: lead
               <td></td>
             </tr>
             <tr>
-              <td>11:00</td>
+              <td>11:15</td>
               <td> From Prototype to Practice: Real-World Integration of Robotics into Marine Management  </td>
               <td> Vincent Raoult </td>
             </tr>
             <tr>
-              <td>11:30</td>
+              <td>11:45</td>
               <td> Resilient Vision-based Underwater Autonomy </td>
               <td> Mohit Singh </td>
             <tr>
-            <tr>
+            <!-- <tr>
               <td>12:00</td>
               <td> TBD  </td>
               <td> TBD </td>
+            </tr> -->
             </tr>
-            </tr>
-              <td>12:30</td>
+              <td>12:15</td>
               <td style="color:#2563eb;"><b>Mapping the Reef</b>: Underwater 3D Reconstruction for Coral Ecosystems</td>
               <td></td>
             </tr>
