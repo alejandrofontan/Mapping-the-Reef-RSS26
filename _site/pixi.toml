@@ -1,0 +1,11 @@
+[workspace]
+authors = ["alejandrofontan <fontanvillacampa@gmail.com>"]
+channels = ["conda-forge"]
+name = "Mapping-the-Reef-RSS26"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+preview = "bundle exec jekyll serve --livereload"
+
+[dependencies]
